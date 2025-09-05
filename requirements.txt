@@ -1,0 +1,24 @@
+# Core
+click
+rich
+pandas
+numpy
+requests
+
+# GUI
+PyQt6
+Pillow
+
+# Web/Scraping (optional)
+# playwright
+# beautifulsoup4
+# fastapi
+# uvicorn
+
+# Scheduler
+apscheduler
+
+# Development
+pylint
+pytest
+pyinstaller
