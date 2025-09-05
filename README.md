@@ -1,4 +1,3 @@
-# ... (vorheriger Inhalt bleibt gleich) ...
 
 ## Installer erstellen (für Windows)
 
