@@ -25,7 +25,7 @@ Der gesamte Prozess wird durch das `build.py`-Skript und die NSIS-Konfigurations
 2.  **Anwendung paketieren**:
     Führen Sie das `build.py`-Skript aus. Dieses Skript nutzt PyInstaller, um Ihre Anwendung in den `dist/SinisterSnare`-Ordner zu bündeln.
     ```bash
-    python build.py
+   pyinstaller run_gui.spec
     ```
 
 3.  **Installer erstellen**:
